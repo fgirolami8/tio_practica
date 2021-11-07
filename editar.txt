@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-editado desde main
-=======
-editado desde rama
->>>>>>> rama
+main
