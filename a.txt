@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-queda
-sale
-quedaaa
-=======
-queda
->>>>>>> parent of 90bdfe5 (a y b sale thing)
